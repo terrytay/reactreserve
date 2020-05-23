@@ -4,3 +4,6 @@ node_modules
 dist
 # next.config.*
 # now.json
+.vercel
+now.json
+next.config.js
